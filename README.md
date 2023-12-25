@@ -1,0 +1,1 @@
+# Leetcode_Q506_RelativeRanks_Py
